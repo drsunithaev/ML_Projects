@@ -13,3 +13,13 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+
+Git Version
+    git --version
+    2.25.1
+
+To Download
+
+    wget URL
+    
